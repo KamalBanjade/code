@@ -1,0 +1,27 @@
+ .white{
+    background-color: brown;
+    color: aqua;
+ }
+ h1,h3{
+    color: aliceblue;
+    background-color: aquamarine;
+ }
+ 
+ .red{
+   background-color: rgb(145, 15, 15);
+   color: wheat;
+ }
+ #head{
+   background-color: green;
+   
+ }
+ body{
+    /* background-color: rgb(7, 156, 139);  */
+    background-image: url('image.jpeg');
+   background-repeat: no-repeat;
+     }
+   *{
+      margin: 0;
+      padding: 0;
+
+   } 
